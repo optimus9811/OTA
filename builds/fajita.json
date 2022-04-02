@@ -1,0 +1,20 @@
+{
+  "error": false,
+  "maintainers": [
+    {
+      "main_maintainer": true,
+      "github_username": "SevralT",
+      "name": "Alexander Chycherin"
+    }
+  ],
+  "donate_url": "https://t.me/sevralt",
+  "website_url": "https://t.me/sevralt_chat",
+  "news_url": "https://t.me/sevralt_updates",
+  "datetime": 1648918953,
+  "filename": "PixelExperience_fajita-12.1-20220402-1703-UNOFFICIAL.zip",
+  "id": "fa167e1d90b8aae2a22cbfa71743135e171fb7b49999291a31913c44941450d3",
+  "size": 1401321805,
+  "url": "https://oshi.at/hSaq/PixelExperience_fajita-12.1-20220402-1703-UNOFFICIAL.zip",
+  "version": "twelve",
+  "filehash": "acc575035160523751af1a57a42d5fd9"
+}
